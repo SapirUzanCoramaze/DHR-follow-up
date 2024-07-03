@@ -34,7 +34,7 @@ With a "Review"->"new comment" while you are on the specific cell.
 
 ### Special Instructions:
 - If you see a gray marked cell, I already took care of it.
-- In QCS parts, there are date and effective date columns.
+- There are dates columns.
   - If written that the dates are missing, you need to complete them. 
   - If you see the structure: "XX<YY" - ignore it (and leave it as is) - Jonathan and I are taking care of it (will do a CAPA).
 - In RIR parts, there is a sample size column. Ignore it (and leave it as is) - Jonathan and I are taking care of it (will do a CAPA).
