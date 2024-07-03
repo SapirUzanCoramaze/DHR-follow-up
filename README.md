@@ -30,7 +30,7 @@ Example:
 ![reCapture](https://github.com/SapirUzanCoramaze/DHR-follow-up/assets/169580592/38e09560-bb87-45da-aae6-a857ca035ac5)
 
 ##### How to explain? 
-With a "Review"->"new comment".
+With a "Review"->"new comment" while you are on the specific cell.
 
 ### Special Instructions:
 - If you see a gray marked cell, I already took care of it.
