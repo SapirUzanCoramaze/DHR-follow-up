@@ -52,12 +52,12 @@ With a "Review"->"new comment" while you are on the specific cell.
 - If you add text to a specific cell (and not by a command), please write it with red color.
 - If it is something that you do not know if you can change - please ask.
 
-#### So where to start?
+#### So how to begin?
 Find the "DHR follow up" table on this path: "Coramaze Dropbox\Coramaze Dropbox\QA\DHR\DHR buffer".
 
 
 
-PLEASE - don't delete the content of any cell.
+**PLEASE - don't delete the content of any cell.**
 
 If you encounter any uncertainties or need further clarification, I’m here 😊
 
