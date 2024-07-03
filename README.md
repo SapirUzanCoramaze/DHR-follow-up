@@ -23,7 +23,7 @@ Each cell that is not empty in the row represents a problem, briefly explained.
 After understanding the problem, proceed to fix or explain it. Once fixed or explained, mark the cell with a yellow background to indicate completion. 
 If you finish the entire part you're responsible for, mark with a yellow background your name in the respective blue column.
 ##### How to fix? 
-Solved the specific problem and make a line on the error, sign near it, and put the current date. 
+Solve the specific problem and make a line on the error, sign near it, and put the current date. 
 
 Example: 
  
