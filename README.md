@@ -53,7 +53,8 @@ With a "Review"->"new comment" while you are on the specific cell.
 - If it is something that you do not know if you can change - please ask.
 
 #### So how to begin?
-Search for the "DHR follow up" table on the following address: "Coramaze Dropbox\Coramaze Dropbox\QA\DHR\DHR buffer".
+Search for the "DHR follow up" table on the following address: 
+"Coramaze Dropbox\Coramaze Dropbox\QA\DHR\DHR buffer".
 
 
 
