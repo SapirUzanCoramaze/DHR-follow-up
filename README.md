@@ -55,6 +55,8 @@ With a "Review"->"new comment" while you are on the specific cell.
 #### So where to start?
 Find the "DHR follow up" table on this path: "Coramaze Dropbox\Coramaze Dropbox\QA\DHR\DHR buffer".
 
+
+
 PLEASE - don't delete the content of any cell.
 
 If you encounter any uncertainties or need further clarification, I’m here 😊
